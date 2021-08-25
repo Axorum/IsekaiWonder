@@ -6,9 +6,7 @@
 				"abbreviation": "IPoE",
 				"full": "Isekai Portal of Everything",
 				"url": "",
-				"authors": [
-					"Axoria"
-				],
+				"authors": ["Axoria"],
 				"convertedBy": ["Axoria"],
 				"version": "0"
 			}
@@ -29,7 +27,6 @@
 			"dmgType": "B",
 			"property": [
 				"L",
-				"FFIGH",
 				"S"
 			],
 			"entries": [
