@@ -1,0 +1,47 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "IsekaiPoE",
+				"abbreviation": "IPoE",
+				"full": "Isekai Portal of Everything",
+				"url": "",
+				"authors": [
+					"Axoria"
+				],
+				"convertedBy": [Axoria],
+				"version": "0"
+			}
+		],
+		"dateAdded": 1593285195,
+		"dateLastModified": 1628444379
+	},
+	"item": [
+		{
+			"name": "Robertus",
+			"type": "M",
+			"weapon": true,
+			"weaponCategory": "simple",
+			"rarity": "none",
+			"value": 200,
+			"weight": 1,
+			"dmg1": "1d4",
+			"dmgType": "B",
+			"property": [
+				"L",
+				"FFIGH",
+				"S"
+			],
+			"entries": [
+				{
+					"type": "entries",
+					"name": "Special",
+					"entries": [
+						"the world"
+					]
+				}
+			],
+			"source": "IsekaiPoE"
+		}
+	]
+}
